@@ -13,6 +13,11 @@
 8. Display the employee table, salary_log table.
 
 ### Program:
+### Create employee table
+
+### Create salary_log table
+
+### PLSQL Trigger code
 
 ### Output:
 
