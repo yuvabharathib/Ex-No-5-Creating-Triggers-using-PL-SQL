@@ -29,8 +29,8 @@ CREATE TABLE sal_log (
   update_date DATE
 );
 -- Insert the values in the employee table
-insert into employed values(1,'dulquer','IT',1000000);
-insert into employed values(2,'amal','SALES',500000);
+insert into employed values(1,'Raja','IT',1000000);
+insert into employed values(2,'gokul','SALES',500000);
 
 ```
 
@@ -71,8 +71,8 @@ BEGIN
 END;
 /
 -- Insert the values in the employee table
-insert into employed values(1,'dulquer','IT',1000000);
-insert into employed values(2,'amal','SALES',500000);
+insert into employed values(1,'Raja','IT',1000000);
+insert into employed values(2,'gokul','SALES',500000);
 
 -- Update the salary of an employee
 UPDATE employed
@@ -86,7 +86,7 @@ SELECT * FROM sal_log;
 ```
 
 ### Output:
-![image](https://github.com/harinidq/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/113497680/ea20f27e-6ebb-425d-8f26-eeed43e38d89)
+![image](https://github.com/yuvabharathib/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/113497404/a02d9926-6588-4418-b9b5-855cd4285041)
 
 ### Result:
 Thus , the output has been successfully verified.
